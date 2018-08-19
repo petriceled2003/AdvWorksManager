@@ -52,6 +52,7 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Production\Entities\Product.cs" />
     <Compile Include="Production\Forms\ProductsListForm.cs">
       <SubType>Form</SubType>
     </Compile>
